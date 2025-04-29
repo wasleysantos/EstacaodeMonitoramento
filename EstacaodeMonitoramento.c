@@ -29,9 +29,9 @@ Definição de estados do Joystick:
 #define LED_B_PIN 12       // Pino do LED azul
 
 // Limiar para os diferentes estados do joystick
-#define LIMIAR_CRITICO 4000 //Limiar do joystick para cima
-#define LIMIAR_INTERMEDIARIO 1700 //Limiar do joystick para os lados
-#define LIMIAR_BAIXO 100 //Limiar do joystick para baixo
+#define LIMIAR_CRITICO 2700 //Limiar do joystick para cima
+#define LIMIAR_INTERMEDIARIO 1400 //Limiar do joystick para os lados
+#define LIMIAR_BAIXO 1390 //Limiar do joystick para baixo
 #define LIMIAR_NEUTRO 2050 //intervalo 0 da Limiar do joystick centralizado
 #define LIMIAR_NEUTRO1 2100 //intervalo 1 da Limiar do joystick centralizado
 
